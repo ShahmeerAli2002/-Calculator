@@ -1,2 +1,2 @@
 # -Calculator
-Basic calculator typescript
+Basic calculator python
